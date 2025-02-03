@@ -1,6 +1,6 @@
 {
   "name": "r3f-flight-scene",
-  "homepage": "https://dor-rondel.github.io/flight-scene",
+  "homepage": "https://dor-rondel.github.io/r3f-flight-scene",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -15,6 +15,7 @@
     "@react-three/drei": "^9.56.28",
     "@react-three/fiber": "^8.11.5",
     "@react-three/postprocessing": "^2.7.1",
+    "gh-pages": "^6.3.0",
     "gsap": "^3.11.5",
     "lamina": "^1.1.23",
     "react": "^18.2.0",
