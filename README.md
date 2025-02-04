@@ -1,5 +1,9 @@
 # R3F Flight Scene
 
+A ThreeJS 3rd person informational flight scene made with React Three Fiber.
+
+[Link to site](https://dor-rondel.github.io/r3f-flight-scene/)
+
 ### Requirements
 
 1. NodeJS v20+
